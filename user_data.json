@@ -1,0 +1,54 @@
+{
+    "5826104038": {
+        "current_discount": 0,
+        "name": "Ярик",
+        "payment_confirmed": true,
+        "payment_method": "перевод",
+        "subject": "история",
+        "successful_orders": 0,
+        "transactions": [
+            {
+                "method": "перевод",
+                "price": 50,
+                "subject": "история"
+            }
+        ],
+        "used_discount_chance": false
+    },
+    "6715030024": {
+        "current_discount": 10,
+        "name": "админ",
+        "payment_confirmed": true,
+        "payment_method": "перевод",
+        "subject": "история",
+        "successful_orders": 3,
+        "transactions": [
+            {
+                "method": "перевод",
+                "price": 50,
+                "subject": "история"
+            },
+            {
+                "method": "перевод",
+                "price": 100,
+                "subject": "история"
+            },
+            {
+                "method": "перевод",
+                "price": 90.0,
+                "subject": "история"
+            },
+            {
+                "method": "перевод",
+                "price": 90.0,
+                "subject": "история"
+            },
+            {
+                "method": "перевод",
+                "price": 90.0,
+                "subject": "история"
+            }
+        ],
+        "used_discount_chance": true
+    }
+}
